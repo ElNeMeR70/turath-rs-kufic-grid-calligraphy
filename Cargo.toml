@@ -1,0 +1,10 @@
+[package]
+name = "turath-rs-kufic-grid-calligraphy"
+version = "1.0.0"
+edition = "2021"
+description = "Square Kufic (Banna'i) Calligraphy Binary Grid Layout Optimizer"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "turath_rs_kufic_grid_calligraphy"
+path = "main.rs"
